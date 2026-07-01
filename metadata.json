@@ -1,0 +1,6 @@
+{
+  "name": "Megna Enterprise",
+  "description": "Premium Fashion & Footwear Online Store",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
